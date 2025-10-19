@@ -12,6 +12,7 @@ Este proyecto al ser de muestra no posee mecanismos de identificación.
 
 ## 📁 Estructura del Proyecto
 
+```
 hf-solutions/
 │
 ├── backend/ # API con Node.js, Express y PostgreSQL
@@ -28,6 +29,7 @@ hf-solutions/
 │
 ├── docker-compose.yml
 └── README.md
+```
 
 ---
 
