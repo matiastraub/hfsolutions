@@ -72,8 +72,6 @@ Ejecuta en la raíz del proyecto:
 
 El frontend usa Vite y genera la carpeta /dist en el proceso de build.
 
-En producción dentro del contenedor, se sirve con serve -s dist -l 3000.
-
 El backend usa Express y una capa de servicio (productService) para manejar operaciones CRUD.
 
 El proyecto fue pensado para ser simple pero representativo de una app moderna con separación de responsabilidades.
