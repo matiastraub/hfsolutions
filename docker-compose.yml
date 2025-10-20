@@ -9,8 +9,6 @@ services:
       - ./backend/.env
     depends_on:
       - postgres
-    volumes:
-      - ./backend:/usr/src/app
     command: npm start
 
   frontend:
